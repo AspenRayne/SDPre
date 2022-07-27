@@ -5,6 +5,5 @@ public class Objective3Lab2{
         double result = Math.sqrt(sum);
 
         System.out.println("The hypotenuse of a triangle with sides " + num1 + " and " + num2 + " is " + result);
-        
     }
 }

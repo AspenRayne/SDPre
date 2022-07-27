@@ -6,8 +6,5 @@ public class Objective3Lab3{
        int sum= (first + second + third);
 
        System.out.println(first + " + " + second + " + " + third + " = " + sum);
-
-       
-
     }
 }

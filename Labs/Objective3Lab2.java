@@ -4,7 +4,7 @@ public class Objective3Lab2{
         double sum = (num1 * num1) + (num2 * num2);
         double result = Math.sqrt(sum);
 
-        System.out.println("The hypotenuse of a triangle with sides" + " "  + num1 + " " + "and" + " " + num2 + " " + "is" + " " +result);
+        System.out.println("The hypotenuse of a triangle with sides " + num1 + " and " + num2 + " is " + result);
         
     }
 }

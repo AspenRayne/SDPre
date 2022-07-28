@@ -31,5 +31,7 @@ public class Objective4Lab2{
 
         double product = inputDub1 + inputDub2 + inputDub3;
         System.out.println("The sum of " + inputDub1 + " + " + inputDub2 + " + " + inputDub3 + " = " + product);
+
+        scanner.close();
     }
 }
